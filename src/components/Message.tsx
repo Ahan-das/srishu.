@@ -23,7 +23,7 @@ const Message = () => {
           kintu tui to icche more geche bole chole geli , ami toke mananor onek chesta korechi ar parchi na Sorry.
           Ajke theke toke messege kore, instagram e follow request pathiye, bar bar dekha korte bole birokto 
           korbo na.
-          Tata.
+          Tata,
           Bhalo thakis ar nijer ektu jotno koris, khub Lyadhkhor tui😄.
       
         </p>
