@@ -21,8 +21,6 @@ const Message = () => {
           Ami bhebechilam amra ager moton kotha bolte suru korle sobh thik hoye jabe abar notun kore somporko
           ta start korte cheyechilam.Ami kono din e chaini amader somporko ta dujoner jed er jnno erom kore sesh hoye jak 
           kintu tui to icche more geche bole chole geli , ami toke mananor onek chesta korechi ar parchi na Sorry.
-          Amar o kosto hoy chele holeo amaro kanna paay ki korbo kauke bhalobashle hoyeto erom e hoy Jai hok char tor jonmo din
-          er din abar ulto palta bokchi.
           Ajke theke toke messege kore, instagram e follow request pathiye, bar bar dekha korte bole birokto 
           korbo na.
           Tata.
