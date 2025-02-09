@@ -14,17 +14,24 @@ const Message = () => {
           Dear Sristi,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Happy Birthday Sristi many many happy returns of the day. Khub miss kori re toke.
-          Bhalo thakis ar parle Apni nijeke please nesha drobbo, ulto palta time e ar ulto palta jinish
-          khaoya, self doubt, depression, nijer toxic classmates ar nijeke weird bhaba theke dure thakben.
+           Happy Birthday Sristi many many happy returns of the day. Khub miss kori re toke.
+          Apni nijeke please nesha drobbo, ulto palta time e ar ulto palta jinish khaoya, self doubt, depression, 
+          nijer toxic classmates ar nijeke weird bhaba theke dure thakben.
           Just a friendly advise.
-          Ami bhebechilam amra ager moton kotha bolte suru korle sobh thik hoye jabe abar notun kore somporko
-          ta start korte cheyechilam.Ami kono din e chaini amader somporko ta dujoner jed er jnno erom kore sesh hoye jak 
-          kintu tui to icche more geche bole chole geli , ami toke mananor onek chesta korechi ar parchi na Sorry.
-          Ajke theke toke messege kore, instagram e follow request pathiye, bar bar dekha korte bole birokto 
-          korbo na.
-          Tata,
-          Bhalo thakis ar nijer ektu jotno koris, khub Lyadhkhor tui😄.
+          Ami kono din e chaini amader somporko ta erom kore sesh hoye jak .
+
+          Bhebechilam amra ager moton kotha bolte suru korle sobh thik hoye jabe abar notun kore somporko
+          ta start korte cheyechilam ager baar jei bhul gulo korechilam sei gulo thik korte cheyechilam. 
+          But tui to icche more geche bole chole geli , ami toke mananor onek chesta korechi kintu tor jokhon
+          akdom e ar icche nei aj theke toke messege kore, instagram e follow request pathiye, bar bar 
+          dekha korte bole birokto korbo na.
+          Ar dekh tui amar jnno kono din e option chilis na one and only choice chilis tai tui icche more geche bole 
+          sobh kichu sesh korleo ami parini sobh kichu bhule jete ar parbo boleo mone hoy na. Kono icche hole fere ashis 
+          opekha korbo tor jnno na ashleo kono oshubidha nei.
+          
+          Bhalo thakis ar nijer ektu jotno koris jotno I mean rupchorcha r kotha bolini tui tor moton kore perfect
+          nijer sorir e jotno nis, thik thak time e khas na ghumash o na, khub Lyadhkhor tui😄.
+          Tata, Happy Birthday.
       
         </p>
         <p className="text-lg text-pink-600 font-semibold">
